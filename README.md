@@ -1,2 +1,2 @@
 # curso.java.ejercicio-redsocial
-poo
+programación orientada a objetos
